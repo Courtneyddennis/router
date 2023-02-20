@@ -1,0 +1,1 @@
+const BASE = "https://strangers-things.herokuapp.com/api/2211-ftb-ct-web-pt"
